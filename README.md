@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **amul67142@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MdiUGihhR7_krUKvwY2mUUULYNhGRh-M/view?usp=sharing](https://drive.google.com/file/d/1MdiUGihhR7_krUKvwY2mUUULYNhGRh-M/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MdiUGihhR7_krUKvwY2mUUULYNhGRh-M/view?usp=sharing](https://drive.google.com/file/d/1caWSBLgLOYA1rhTRRg7rQwRo-VyDpJkJ/view?usp=drive_link)
 
-- 📄 Portfolio - https://amul-portfolio.netlify.app/
+- 📄 Portfolio - https://amul-portfolio-me.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
