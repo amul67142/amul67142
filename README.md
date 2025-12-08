@@ -1,31 +1,74 @@
-<h1 align="center">Hi 👋, I'm Amul Sharma</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=22c55e&center=true&vCenter=true&width=600&lines=Hi+👋%2C+I'm+Amul+Sharma;Full+Stack+Web+Developer;Open+Source+Enthusiast;MERN+Stack+Developer" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amul67142&label=Profile%20views&color=0e75b6&style=flat" alt="amul67142" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amul67142&label=Profile%20views&color=0e75b6&style=flat" alt="amul67142" />
+</div>
 
-- 🔭 I’m currently working on **Open Source**
+<br/>
 
-- 🌱 I’m currently learning **MERN Stack, Machine Learning**
+<div align="center">
+  
+```javascript
+const developer = {
+  name: "Amul Sharma",
+  location: "India",
+  role: "Full Stack Web Developer",
+  code: ["Javascript", "React", "Node.js", "Express"],
+  technologies: {
+    frontend: "React, Bootstrap, TailwindCSS, HTML5, CSS3",
+    backend: "Node.js, Express, Java",
+    database: "MongoDB",
+    tools: "Postman, Git, GitHub"
+  },
+  learning: ["MERN Stack", "Machine Learning"],
+  challenge: "Building 100% responsive & scalable apps"
+};
+```
 
-- 💬 Ask me about **react , Full stack web-dev.**
+</div>
 
-- 📫 How to reach me **amul67142@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MdiUGihhR7_krUKvwY2mUUULYNhGRh-M/view?usp=sharing](https://drive.google.com/file/d/1caWSBLgLOYA1rhTRRg7rQwRo-VyDpJkJ/view?usp=drive_link)
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-- 📄 Portfolio - https://amul-portfolio-me.netlify.app/
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,java,html,css,bootstrap,tailwind,postman,git,github&perline=7" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amul67142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amul67142" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amul-sharma-8ab60a220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amul-sharma-8ab60a220" height="30" width="40" /></a>
-<a href="https://instagram.com/ig.amulshr___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig.amulshr___" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amul67142&show_icons=true&locale=en&layout=compact" alt="amul67142" /></p>
+| **Connect with me** | **My Stats** |
+|:---:|:---:|
+| <a href="https://twitter.com/amul67142"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><br/><a href="https://linkedin.com/in/amul-sharma-8ab60a220"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><br/><a href="https://instagram.com/ig.amulshr___"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a><br/><a href="mailto:amul67142@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amul67142&show_icons=true&locale=en&layout=compact&theme=dark" alt="amul67142" height="140" /> |
 
-[![An image of @amul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amul)](https://holopin.io/@amul)
+</div>
 
+<br/>
+
+<div align="center">
+  <h3>🚀 Portfolio</h3>
+  <a href="https://amulsharma.site">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://drive.google.com/file/d/1caWSBLgLOYA1rhTRRg7rQwRo-VyDpJkJ/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Download_Resume-FBBC04?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://holopin.io/@amul">
+    <img src="https://holopin.me/amul" alt="An image of @amul's Holopin badges" />
+  </a>
+</div>
+
+<div align="center">
+  <sub><i>"Talk is cheap. Show me the code."</i></sub>
+</div>
