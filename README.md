@@ -56,7 +56,7 @@ const developer = {
   </a>
   <br/>
   <br/>
-  <a href="https://drive.google.com/file/d/1caWSBLgLOYA1rhTRRg7rQwRo-VyDpJkJ/view?usp=drive_link">
+  <a href="https://drive.google.com/uc?export=download&id=11LdR_eRJjNnGPrjqTh3VSkn1UtezXHdV">
     <img src="https://img.shields.io/badge/Download_Resume-FBBC04?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
 </div>
